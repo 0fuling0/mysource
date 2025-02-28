@@ -1,14 +1,14 @@
 DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,AI.com
-DOMAIN-SUFFIX,cdn.auth0.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,opendns.com
-DOMAIN-SUFFIX,civitai.com
+DOMAIN-KEYWORD,chatgpt
 DOMAIN,copilot.microsoft.com
 DOMAIN,bard.google.com
 DOMAIN,ai.google.dev
 DOMAIN,gemini.google.com
-DOMAIN,*-pa.clients6.google.com
+DOMAIN-SUFFIX,AI.com
+DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,opendns.com
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,pa.clients6.google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,intercom.io
@@ -19,4 +19,3 @@ DOMAIN-SUFFIX,Anthropic.com
 DOMAIN-SUFFIX,opera-api.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,ciciai.com
-DOMAIN-KEYWORD,chatgpt
