@@ -1,9 +1,5 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
-DOMAIN,copilot.microsoft.com
-DOMAIN,bard.google.com
-DOMAIN,ai.google.dev
-DOMAIN,gemini.google.com
 DOMAIN-SUFFIX,AI.com
 DOMAIN-SUFFIX,cdn.auth0.com
 DOMAIN-SUFFIX,opendns.com
@@ -19,3 +15,7 @@ DOMAIN-SUFFIX,Anthropic.com
 DOMAIN-SUFFIX,opera-api.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,ciciai.com
+DOMAIN,copilot.microsoft.com
+DOMAIN,bard.google.com
+DOMAIN,ai.google.dev
+DOMAIN,gemini.google.com
