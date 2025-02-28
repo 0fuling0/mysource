@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,civitai.com
 DOMAIN,bard.google.com
 DOMAIN,ai.google.dev
 DOMAIN,gemini.google.com
-DOMAIN,people-pa.clients6.google.com
+DOMAIN,*-pa.clients6.google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,intercom.io
